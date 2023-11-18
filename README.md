@@ -30,7 +30,7 @@ Monster Chase is a thrilling adventure game with two engaging scenes: Mainmenu a
 
 ## Screenshots
 
-![Main Menu ScreenShots](Screenshots/Main Menu.png)
+![Main Menu Screenshot](Screenshots/Main%20Menu.png)
 
 ## Getting Started
 
